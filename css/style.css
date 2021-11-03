@@ -65,7 +65,6 @@ header{
 }
 .menu ul li:last-child a{
 	margin-right: 0;
-	padding-right: 0;
 }
 .menu ul li a:hover{
 	color: white;
@@ -76,7 +75,7 @@ header{
 	overflow: hidden;
 	position: absolute;
 	top: 15px;
-	right: 30px;
+	right: 40px;
 }
 .n_img{
 	margin-top: 14px;
